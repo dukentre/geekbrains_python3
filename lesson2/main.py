@@ -41,7 +41,7 @@ array = string.split(" ")
 for i in range(len(array)):
     print(f"{i}: {array[i][:10]}")
 
-# Задание 5
+# Задание 5__
 
 array = []
 while True:
